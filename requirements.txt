@@ -1,0 +1,6 @@
+pymupdf
+chromadb==0.5.0
+sentence-transformers
+streamlit
+requests
+python-dotenv
